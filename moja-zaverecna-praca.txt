@@ -1,3 +1,5 @@
 Detekovanie emocionálnych stavov pomoc termokamery
 
 Anotácia
+
+Rok obhajoby : 2022
